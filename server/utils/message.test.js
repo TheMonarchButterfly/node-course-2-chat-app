@@ -17,5 +17,5 @@ describe('generateMessage', () => {
     // assert from match 
     // assert text match
     // assert createdAt is number
-  })
-})
+  });
+});
